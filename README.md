@@ -1,10 +1,6 @@
-# Interview
-
 # Interview Question
 
-## Table Of Contents
-
-## CS 관련 지식
+## CS 관련 지식(최소한 아래의 것들은 알고 들어가자.)
 
 ### 네트워크
 
